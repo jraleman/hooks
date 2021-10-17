@@ -1,0 +1,24 @@
+{
+  "name": "@jraleman/hooks",
+  "version": "0.0.1",
+  "description": "Condensed open source library of react hooks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jraleman/hooks.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "reactjs"
+  ],
+  "author": "jraleman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jraleman/hooks/issues"
+  },
+  "homepage": "https://github.com/jraleman/hooks#readme"
+}
